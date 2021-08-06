@@ -1,0 +1,9 @@
+/* bacground color of banner */
+.banner-bacground{
+    background-color: #264653;
+}
+/* featured-bike-grey-scale */
+.img-scale{
+    filter:sepia(80%);
+    -webkit-filter: sepia(80%);
+}
