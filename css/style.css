@@ -1,9 +1,67 @@
-/* bacground color of banner */
+/* banner section style starts */
+
 .banner-bacground{
     background-color: #264653;
 }
+.btn-honda{
+  background-color: #E76F51 !important;
+  color: white !important;
+  font-size: 16px !important;
+  width: 168px;
+  height: 44px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
 /* featured-bike-grey-scale */
+
+.feature-bike{
+  color: #E76F51;
+  font-size: 14px;
+}
 .img-scale{
     filter:sepia(80%);
     -webkit-filter: sepia(80%);
+}
+
+/* client review section style starts */
+
+.client-feedback{
+  color: #6C6C6C;
+  font-size: 16px;
+}
+.heading{
+  font-size: 48px;
+}
+#client-says,#faq{
+   color: #E76F51;
+   
+}
+.fas.fa-star.rating{
+  color: #E77C40;
+}
+.far.fa-star.rating{
+  color: #E77C40;
+}
+span a{
+  text-decoration: none;
+}
+
+
+/* soutionn-capability section style starts */
+.icon {
+  color: tomato;
+}
+.info a{
+  text-decoration: none;
+}
+.solution-capability:hover{
+    background-color: turquoise;
+}
+
+
+/* connection section style starts */
+.join-community:hover{
+     background-color: rgba(0, 0, 0, 0.438);
+     color:white;
 }
