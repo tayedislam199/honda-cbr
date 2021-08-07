@@ -20,8 +20,8 @@
   font-size: 14px;
 }
 .img-scale{
-    filter:sepia(80%);
-    -webkit-filter: sepia(80%);
+    filter:sepia(60%);
+    -webkit-filter: sepia(60%);
 }
 
 /* client review section style starts */
